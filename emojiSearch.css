@@ -1,0 +1,22 @@
+input{
+    height:30px;
+    width:300px;
+    font-size: large;
+    font-weight:bold;
+    letter-spacing: 1px;
+    background-color: azure;
+}
+h1{
+    color: brown;
+}
+#Main{
+    margin:auto;
+    border:3px solid black;
+    height:200px;
+    width:400px;
+    margin-top:15%;
+    background-color: pink;
+}
+body{
+    background-color:darkcyan;
+}
